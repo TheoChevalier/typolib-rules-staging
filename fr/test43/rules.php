@@ -1,1 +1,1 @@
-a:2:{s:4:"name";s:6:"test43";s:6:"common";b:0;}
+a:3:{s:4:"name";s:6:"test43";s:6:"common";b:0;s:5:"rules";a:1:{i:0;a:2:{s:7:"content";s:19:"IF […] THEN […]";s:4:"type";s:7:"if_then";}}}
