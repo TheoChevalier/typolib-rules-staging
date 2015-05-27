@@ -1,1 +1,0 @@
-a:1:{s:10:"exceptions";a:3:{i:0;a:2:{s:7:"rule_id";s:1:"0";s:7:"content";s:4:"plop";}i:1;a:2:{s:7:"rule_id";s:1:"0";s:7:"content";s:3:"Hey";}i:2;a:2:{s:7:"rule_id";s:1:"0";s:7:"content";s:2:"42";}}}
