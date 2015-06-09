@@ -1,1 +1,1 @@
-a:1:{s:10:"exceptions";a:1:{i:1;a:2:{s:7:"rule_id";i:3;s:7:"content";s:3:"»,";}}}
+a:1:{s:10:"exceptions";a:0:{}}
