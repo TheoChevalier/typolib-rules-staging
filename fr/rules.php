@@ -1,0 +1,1 @@
+a:1:{s:5:"rules";a:1:{i:0;a:2:{s:7:"content";a:2:{i:0;s:3:"...";i:1;s:3:"…";}s:4:"type";s:12:"replace_with";}}}
