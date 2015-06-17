@@ -1,1 +1,1 @@
-a:1:{s:10:"exceptions";a:5:{i:2;a:2:{s:7:"rule_id";s:2:"11";s:7:"content";s:3:"%;t";}i:3;a:2:{s:7:"rule_id";s:1:"1";s:7:"content";s:5:""var"";}i:4;a:2:{s:7:"rule_id";i:13;s:7:"content";s:5:"u...u";}i:6;a:2:{s:7:"rule_id";s:2:"26";s:7:"content";s:5:"http:";}i:7;a:2:{s:7:"rule_id";s:2:"27";s:7:"content";s:3:"://";}}}
+a:1:{s:10:"exceptions";a:4:{i:3;a:2:{s:7:"rule_id";s:1:"1";s:7:"content";s:5:""var"";}i:4;a:2:{s:7:"rule_id";i:13;s:7:"content";s:5:"u...u";}i:6;a:2:{s:7:"rule_id";s:2:"26";s:7:"content";s:5:"http:";}i:7;a:2:{s:7:"rule_id";s:2:"27";s:7:"content";s:3:"://";}}}
