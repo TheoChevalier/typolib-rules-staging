@@ -1,1 +1,0 @@
-a:3:{s:4:"name";s:4:"toto";s:6:"common";b:0;s:5:"rules";a:1:{i:0;a:2:{s:7:"content";a:2:{i:0;s:11:"événement";i:1;s:11:"évènement";}s:4:"type";s:12:"replace_with";}}}
